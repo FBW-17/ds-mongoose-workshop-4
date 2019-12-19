@@ -1,0 +1,26 @@
+{
+  "name": "ex4",
+  "version": "1.0.0",
+  "description": "Continue working on your code for flats from the previous exercise.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW-17/ds-mongoose-workshop-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW-17/ds-mongoose-workshop-4/issues"
+  },
+  "homepage": "https://github.com/FBW-17/ds-mongoose-workshop-4#readme"
+}
